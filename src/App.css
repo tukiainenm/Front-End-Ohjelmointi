@@ -40,3 +40,9 @@ table {
   margin-left: auto;
    margin-right: auto;
 }
+
+body {
+  background-color: #f0e5e546;
+  padding-top: 120px;
+}
+
